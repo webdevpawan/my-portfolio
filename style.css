@@ -223,3 +223,9 @@ h3 {
     display: none;
   }
 }
+@media(max-width:450px){
+  .headings h1{
+    font-size: 45px;
+    padding: 10px;
+  }
+}
